@@ -1,6 +1,5 @@
-TesselStudio
+# TesselStudio
 
-Go
 
 TesselStudio is the home of creative game development experiments, currently focused on TesselBox — a 2D sandbox adventure game built around a hexagonal grid.
 
