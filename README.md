@@ -1,6 +1,4 @@
-# TesselStudio
-
-[![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go&logoColor=white)](https://go.dev)
+# Tessel studio
 
 
 **TesselStudio** is the home of creative game development experiments, currently focused on **TesselBox** — a 2D sandbox adventure game built around a **hexagonal grid**.
