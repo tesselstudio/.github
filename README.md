@@ -21,7 +21,7 @@ Open tools, games, and developer projects built by the TesselStudio community.
 
 ## 👋 About
 
-**TesselStudio** is an open-source organization focused on building experimental tools, games, and developer utilities.
+**TesselStudio** is an open-source organization focused on building experimental games
 
 We create projects that are 🌍 Open to community contributions
 
