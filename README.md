@@ -31,7 +31,6 @@ We create projects that are:
 
 ---
 
-## ⌨️ Typing Banner
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Open+Source+Development;Game+Engines+%26+Tools;Experimental+Projects;Community+Driven+Innovation" />
@@ -52,19 +51,6 @@ An experimental tile-based sandbox game engine designed for extensibility and ra
 
 
 
----
-
-# 📊 Organization Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tesselstudio&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tesselstudio&theme=tokyonight&hide_border=true">
-
-</p>
-
----
 
 # 📦 Technologies
 
