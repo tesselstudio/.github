@@ -36,14 +36,10 @@ We create projects that are 🌍 Open to community contributions
 
 # ⭐ Featured Project
 
-## 🧱 TesselBox Game
+## 🧱 TesselBox Game    - (https://github.com/tesselstudio/TesselBox-game)
 
 An experimental tile-based sandbox game engine designed for extensibility and rapid development.
 
-**Highlights**
-
-- Modular tile system
-- Extensible map format
 
 
 
