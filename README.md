@@ -81,5 +81,4 @@ Join us and help build the next generation of open developer tools.
 <p align="center">
 Made with ❤️ by the TesselStudio community
 </p>
-- Designed for fast iteration
-- Built for experimentation
+
