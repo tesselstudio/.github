@@ -49,5 +49,59 @@ An experimental tile-based sandbox game engine designed for extensibility and ra
 
 - Modular tile system
 - Extensible map format
+
+
+
+---
+
+# 📊 Organization Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tesselstudio&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tesselstudio&theme=tokyonight&hide_border=true">
+
+</p>
+
+---
+
+# 📦 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,git,github,vscode">
+
+</p>
+
+---
+
+# 🤝 Contributing
+
+We welcome contributions!
+
+Steps:
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
+
+Check individual repositories for their contribution guidelines.
+
+---
+
+# 🌍 Community
+
+- Discussions
+- Issues
+- Pull Requests
+
+Join us and help build the next generation of open developer tools.
+
+---
+
+<p align="center">
+Made with ❤️ by the TesselStudio community
+</p>
 - Designed for fast iteration
 - Built for experimentation
