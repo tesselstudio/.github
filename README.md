@@ -48,7 +48,7 @@ An experimental tile-based sandbox game engine designed for extensibility and ra
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,git,github,vscode">
+<img src="https://skillicons.dev/icons?i=go,linux,git,github,vscode">
 
 </p>
 
